@@ -1,0 +1,18 @@
+https://challenge-ch4.vercel.app/ 
+
+tugas ini masih di katakan sangat tidak sesuai dengan apa yang di tugaskan, pengerjaan dan pengumpulannya juga sangat jauh dari waktu yang ditentukan.
+
+(input/seacrh)
+akan muncul hasil sesuai dengan apa yang kita cari, tetapi masih di halaman yang sama.
+hasil nya akan muncul ketika sudah mengklik enter
+untuk kembali seperti semula maka hapus dahulu kata yang sudah di masukan ke dalam input dan tekan enter.
+jika tidak menekan enter maka yang keluar bukan hasil seperti semula melainkan masih dengan movie yang kita cari tetapi dengan hasil 4 movie.
+
+(detail movie)
+detail movie ini sangat tidak sesuai dengan yang ditugaskan karena hasilnya masih berada di halaman utama
+yang dimana saat kita klik movie yang ingin di cari tahu detail nya maka yang akan muncul hanya gambar movie dan detail di bawah gambar
+untuk kembali ke tampilan awal cukup klik kembali gambar movie nya
+
+(see all more)
+ketika di klik maka akan keluar semua hasil popular movie
+tetapi di saat kita sudah mencari movie di inputan lalu meng klik see all more itu tidak akan berubah (masih di hasil popular movie)
